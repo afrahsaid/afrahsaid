@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/afrahdev" target="blank"><img src="https://img.shields.io/twitter/follow/afrahdev?logo=twitter&style=for-the-badge" alt="afrahdev" /></a> </p>
 
-- 👯 I’m looking to collaborate with **web developers**
+- 👯 I like collaborating with **everyone**
 
 - 💬 Ask me about **Web development**
 
