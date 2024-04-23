@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **afrahdev@gmail.com**
 
-- ⚡ Fun fact **I think I am Sporty!**
+- ⚡ Real fact **I like almost all kinds of sports!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
